@@ -18,7 +18,7 @@
 
 ## 📸 Preview
 
-![Portfolio Preview](https://user-images.githubusercontent.com/00000000/placeholder.png)
+![Portfolio Preview](https://amarsin22.github.io/My-Portfolio/)
 > *(Upload your screenshot in the repo and update this link)*
 
 ---
