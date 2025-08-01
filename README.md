@@ -1,51 +1,71 @@
-<h1 align="center">🌐 Amar Singh - Personal Portfolio</h1>
+<h1 align="center">✨ Amar Singh - Developer Portfolio</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Live-green?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/amarsin22/My-Portfolio?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/amarsin22/My-Portfolio?style=flat-square" />
+  <b>A modern, responsive & professional developer portfolio built with HTML, CSS, and JavaScript</b><br>
+  Showcasing my skills, projects, and contact information for recruiters and collaborators.
 </p>
 
 <p align="center">
-  A clean, minimal, and responsive portfolio website to showcase my skills, projects, and contact information. Built using HTML, CSS, and JavaScript.
-</p>
-
-<p align="center">
-  🔗 <a href="https://amarsin22.github.io/My-Portfolio/">Live Demo</a> • 📂 <a href="https://github.com/amarsin22/My-Portfolio">Source Code</a>
+  <a href="https://amarsin22.github.io/My-Portfolio/" target="_blank"><strong>🔗 Live Demo</strong></a> •
+  <a href="https://github.com/amarsin22/My-Portfolio" target="_blank"><strong>📂 Source Code</strong></a>
 </p>
 
 ---
 
-## 📸 Preview
+## 🔥 Key Highlights
 
-![Portfolio Preview](https://amarsin22.github.io/My-Portfolio/)
-> *(Upload your screenshot in the repo and update this link)*
+- ✅ **Minimalist Design** — Clean layout with intuitive structure
+- 🌐 **Live Portfolio** — Hosted on GitHub Pages with custom styling
+- 💻 **100% Responsive** — Optimized for mobile, tablet, and desktop
+- ⚡ **Fast Load Time** — Lightweight without external frameworks
+- 🎯 **Job-Ready Format** — Tailored for fresher/entry-level roles
+- 🛡️ **Custom Code** — No templates, written from scratch
+
+> 🧠 *Designed to make a strong first impression on recruiters and showcase your frontend development skills effectively.*
 
 ---
 
-## ✨ Features
+## 🚀 Overview
 
-- 🎯 Clean and modern UI design
-- 📱 Fully responsive (mobile, tablet & desktop)
-- 🚀 Smooth scrolling navigation
-- 💼 Project showcase section
-- 🧠 Skills section with icons
-- 📇 Contact form UI (can be integrated with backend/mail API)
-- 🌐 Fast and lightweight (no heavy frameworks)
+This is a personal developer portfolio website designed to highlight my:
+
+- 👨‍💻 Skills in frontend web development  
+- 📁 Personal & mini projects  
+- 📞 Contact details for collaboration/hiring  
+- 💡 Clean UI/UX and mobile responsiveness  
+
+It is lightweight, fast-loading, and crafted for fresher/junior developer roles and freelance opportunities.
+
+---
+
+## 🧑‍💻 About Me
+
+Hello! I'm **Amar Singh**, a passionate frontend developer focused on building responsive web interfaces and user-centric experiences using core web technologies.
+
+I love solving UI problems, converting designs into live websites, and continuously learning modern web trends.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Description |
-|------------|-------------|
-| `HTML5`    | Markup for content structure |
-| `CSS3`     | Custom styling with media queries |
-| `JavaScript` | DOM interactivity and animations |
-| `Font Awesome` | Scalable vector icons |
-| `Google Fonts` | Elegant web typography |
+| Category       | Technologies Used           |
+|----------------|------------------------------|
+| 🧱 Structure    | HTML5                        |
+| 🎨 Styling      | CSS3, Media Queries          |
+| ⚙️ Interactivity| JavaScript (Vanilla JS)      |
+| 🎯 Icons        | Font Awesome                 |
+| 🖋️ Typography   | Google Fonts                 |
 
 ---
 
+## 📂 Folder Structure
 
-
+My-Portfolio/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+└── assets/
+├── images/
+└── icons/
